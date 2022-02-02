@@ -1,5 +1,4 @@
-# Covid19-and-air-quality
-Effects of Covid 19 stringency measures on air quality in Switzerland  
+# Effects of Covid 19 stringency measures on air quality in Switzerland  
   
 In this work, we aimed to explore if the introduction of stringency measures in Switzerland 
 during the COVID-19 pandemic have led to a reduction of PM2.5 concentrations in the air. 
